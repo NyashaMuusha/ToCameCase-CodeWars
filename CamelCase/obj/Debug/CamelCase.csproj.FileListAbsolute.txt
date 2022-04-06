@@ -1,0 +1,6 @@
+/home/ayshan/RiderProjects/CamelCase/CamelCase/obj/Debug/CamelCase.csprojAssemblyReference.cache
+/home/ayshan/RiderProjects/CamelCase/CamelCase/obj/Debug/CamelCase.csproj.CoreCompileInputs.cache
+/home/ayshan/RiderProjects/CamelCase/CamelCase/bin/Debug/CamelCase.exe
+/home/ayshan/RiderProjects/CamelCase/CamelCase/bin/Debug/CamelCase.pdb
+/home/ayshan/RiderProjects/CamelCase/CamelCase/obj/Debug/CamelCase.exe
+/home/ayshan/RiderProjects/CamelCase/CamelCase/obj/Debug/CamelCase.pdb
